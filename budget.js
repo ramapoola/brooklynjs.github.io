@@ -368,4 +368,11 @@ process.exit(
 -  280.07 // transport     @uber
 
 -  582.64 // donation      @ScriptEdOrg
+
+          // BrooklynJS #21 2015-07-16T19:00Z at @61local
+          // featuring @, @, @, @, and @
+          // with special musical guest, @
+          
+-  282.75 // pro upgrade   @tito
+
 )
